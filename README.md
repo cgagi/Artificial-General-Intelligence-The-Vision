@@ -23,6 +23,7 @@ Content and code for the book "Artificial General Intelligence: The Vision".
   - Moore's Law Projections
   - Economy: Value Production Cycles
   - Multiple vs One Super-intelligent Machine
+    - Challenges of Single Super-Intelligent Machine: Survival, Expansion, Motivation to continue Aquire Intelligence
   - Hybrid vs Fully Synthetic Intelligence
   - Rates of Autonomous Synthetic Intelligence Evolution
   - Moore's Law in Machine's Economy  
@@ -32,6 +33,7 @@ Content and code for the book "Artificial General Intelligence: The Vision".
   - Power & Violence
   - Question, Data, Hypothesis, Models & Projections, Conclusions & Theories & Laws, Actions
 - Self-Sustainability
+  - Field tested by Nature to preserve with minimal energy
   - Balance and harmony
   - Question, Data, Hypothesis, Models & Projections, Conclusions & Theories & Laws, Actions
 
