@@ -15,10 +15,10 @@ Evolutionary Aligned AI powered Safe Sustainable Open Free Abundant (health, wea
   - Meat to ?:
     - Ultra Premium Quality Green Proteins:
       - Plant-based meat alternatives enhanced with micronutrients and tailored flavors (e.g., pea protein, soy protein, or mycoprotein). 
-  - Mushroom-Based Protein:
-    - Gourmet fungal protein (e.g., oyster mushroom, mycelium-based meats) offering unique textures and rich flavors. 
-  - Seaweed-Based Protein:
-    - Protein-rich seaweed varieties (e.g., spirulina or kelp) designed to mimic meat textures while boosting omega-3 intake.
+    - Mushroom-Based Protein:
+      - Gourmet fungal protein (e.g., oyster mushroom, mycelium-based meats) offering unique textures and rich flavors. 
+    - Seaweed-Based Protein:
+      - Protein-rich seaweed varieties (e.g., spirulina or kelp) designed to mimic meat textures while boosting omega-3 intake.
 
   - Trans Fats to ?:
     - Ultra Premium Quality Olive Oil Infused with Nutrient-Rich Microgreens:
