@@ -1,3 +1,6 @@
+Constantine G. (aka GKG, aka CG.AGI) @ 2024-12-01
+---
+
 # Entering The Era of Optimal Post-Scarcity
 
 ## System of Values
@@ -60,7 +63,7 @@ Evolutionary Aligned AI powered Safe Sustainable Open Free Abundant (health, wea
 
 
 ## Technology
-Open Source Decentralized Global Vertically Integrated Self-Balanced AI Mesh Aligned with System of Values and Co-Operated by Human-AI bond via Personal Digital Twins
+- Hyperscale AI: Open Source Decentralized Global Vertically Integrated Self-Balanced AI Mesh Aligned with System of Values and Co-Operated by Human-AI bond via Personal Digital Twins
 
 ## Terminology & FAQ
 - What does Human-AI pair via Personal Digital Twin mean?
@@ -211,3 +214,9 @@ Estimated impact in case of successful full scale adoption of Hyperscale AI duri
 
 This scenario would catalyze profound changes in human health, economic structures, and social harmony, setting a foundation for a more sustainable and connected future.
 
+---
+Constantine G. (GKG., CG.AGI)
+2024. Property of the Author. All Rights Reserverd. 
+
+CC BY-ND is granted to parties with the condition of alignment with the System of Values and committed to follow the Vision. 
+See https://creativecommons.org/licenses/by-nd/4.0/ for details.
