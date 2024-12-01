@@ -216,7 +216,8 @@ This scenario would catalyze profound changes in human health, economic structur
 
 ---
 Constantine G. (GKG., CG.AGI)
-2024. Property of the Author. All Rights Reserverd. 
 
-CC BY-ND is granted to parties with the condition of alignment with the System of Values and committed to follow the Vision. 
-See https://creativecommons.org/licenses/by-nd/4.0/ for details.
+2024. Property of the Author. All Rights Reserved.
+
+A Creative Commons Attribution-NoDerivatives (CC BY-ND) license is granted, provided alignment with the System of Values and commitment to the Vision.
+For details, visit: https://creativecommons.org/licenses/by-nd/4.0/
